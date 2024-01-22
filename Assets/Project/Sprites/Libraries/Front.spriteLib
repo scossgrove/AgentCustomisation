@@ -1,0 +1,130 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a5e6fedc2472449cead18ef23b5cb30d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Library:
+  - m_Name: Head
+    m_Hash: 130111906
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: Default
+      m_Hash: 753088835
+      m_Sprite: {fileID: 7543684422728801693, guid: 2ad21e4442f4c41449d539de123f9737, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 7543684422728801693, guid: 2ad21e4442f4c41449d539de123f9737, type: 3}
+    m_FromMain: 0
+    m_EntryOverrideCount: 1
+  - m_Name: Chest
+    m_Hash: 981834931
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: Default
+      m_Hash: 753088835
+      m_Sprite: {fileID: -7632358039124031316, guid: 2ad21e4442f4c41449d539de123f9737, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -7632358039124031316, guid: 2ad21e4442f4c41449d539de123f9737, type: 3}
+    m_FromMain: 0
+    m_EntryOverrideCount: 1
+  - m_Name: LeftArm
+    m_Hash: 730008282
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: Default
+      m_Hash: 753088835
+      m_Sprite: {fileID: 2724046686008214636, guid: 2ad21e4442f4c41449d539de123f9737, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 2724046686008214636, guid: 2ad21e4442f4c41449d539de123f9737, type: 3}
+    m_FromMain: 0
+    m_EntryOverrideCount: 1
+  - m_Name: RightArm
+    m_Hash: 733214503
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: Default
+      m_Hash: 753088835
+      m_Sprite: {fileID: -451079992557897944, guid: 2ad21e4442f4c41449d539de123f9737, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -451079992557897944, guid: 2ad21e4442f4c41449d539de123f9737, type: 3}
+    m_FromMain: 0
+    m_EntryOverrideCount: 1
+  - m_Name: LeftLeg
+    m_Hash: 101577729
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: Default
+      m_Hash: 753088835
+      m_Sprite: {fileID: -1684167627527183574, guid: 2ad21e4442f4c41449d539de123f9737, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1684167627527183574, guid: 2ad21e4442f4c41449d539de123f9737, type: 3}
+    m_FromMain: 0
+    m_EntryOverrideCount: 1
+  - m_Name: RightLeg
+    m_Hash: 104663548
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: Default
+      m_Hash: 753088835
+      m_Sprite: {fileID: -5754842678915209601, guid: 2ad21e4442f4c41449d539de123f9737, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -5754842678915209601, guid: 2ad21e4442f4c41449d539de123f9737, type: 3}
+    m_FromMain: 0
+    m_EntryOverrideCount: 1
+  - m_Name: Hair
+    m_Hash: 1019596327
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: Default
+      m_Hash: 753088835
+      m_Sprite: {fileID: -2311465460525992262, guid: 2ad21e4442f4c41449d539de123f9737, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -2311465460525992262, guid: 2ad21e4442f4c41449d539de123f9737, type: 3}
+    - m_Name: CrewCut
+      m_Hash: 1050900295
+      m_Sprite: {fileID: 9214763496077149322, guid: bd0a2e37644c1e44a8a1d1de6bc707fa, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 9214763496077149322, guid: bd0a2e37644c1e44a8a1d1de6bc707fa, type: 3}
+    - m_Name: SimpleBlack
+      m_Hash: 1008470105
+      m_Sprite: {fileID: -5033292331489159649, guid: c145b3ff1eddf04448ef0ccc4b318c1a, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -5033292331489159649, guid: c145b3ff1eddf04448ef0ccc4b318c1a, type: 3}
+    - m_Name: SimpleBrown
+      m_Hash: 411051557
+      m_Sprite: {fileID: -4062035950786287438, guid: f25de175e0e523c409911b95e9a2c761, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -4062035950786287438, guid: f25de175e0e523c409911b95e9a2c761, type: 3}
+    - m_Name: SimpleBlonde
+      m_Hash: 315520941
+      m_Sprite: {fileID: 7642879465827763700, guid: 57b40a54f3afd0942a79ffceb30ca84c, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 7642879465827763700, guid: 57b40a54f3afd0942a79ffceb30ca84c, type: 3}
+    - m_Name: SimpleGrey
+      m_Hash: 686733919
+      m_Sprite: {fileID: -6991013385773706136, guid: 26f667446ff103742823dc91a44efa04, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -6991013385773706136, guid: 26f667446ff103742823dc91a44efa04, type: 3}
+    - m_Name: SimpleRed
+      m_Hash: 778481513
+      m_Sprite: {fileID: -4084635919344738231, guid: 6e5a247dfc5892640af3461567c78a80, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -4084635919344738231, guid: 6e5a247dfc5892640af3461567c78a80, type: 3}
+    - m_Name: ShaggyBlack
+      m_Hash: 898055771
+      m_Sprite: {fileID: 6061810892177003111, guid: 83f77a6b960f4d64daa4ed54b019ed43, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 6061810892177003111, guid: 83f77a6b960f4d64daa4ed54b019ed43, type: 3}
+    m_FromMain: 0
+    m_EntryOverrideCount: 8
+  m_PrimaryLibraryGUID: 
+  m_ModificationHash: 638415201980466817
+  m_Version: 1
